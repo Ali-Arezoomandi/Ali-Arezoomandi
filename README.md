@@ -35,21 +35,23 @@ Currently focusing on:
 
 ---
 
-🌱 Currently Learning
-Advanced Django
-Django REST Framework
-React Ecosystem
-Software Architecture
-Clean Code & Design Patterns
+🌱 Currently Learning:
+
+* Advanced Django
+* Django REST Framework
+* React Ecosystem
+* Software Architecture
+* Clean Code & Design Patterns
 
 ---
 
-🎯 What I'm Working On
-Building Backend Applications with Django
-Designing RESTful APIs
-Improving Database Design Skills
-Learning Modern Web Development
-Writing Better and Cleaner Code
+🎯 What I'm Working On:
+
+* Building Backend Applications with Django
+* Designing RESTful APIs
+* Improving Database Design Skills
+* Learning Modern Web Development
+* Writing Better and Cleaner Code
 
 ---
 
