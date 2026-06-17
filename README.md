@@ -10,7 +10,6 @@ Currently focusing on:
 * Django & Django REST Framework
 * SQL & Database Design
 * Git & GitHub
-* Data Structures & Algorithms
 
 ---
 
@@ -41,7 +40,6 @@ Advanced Django
 Django REST Framework
 React Ecosystem
 Software Architecture
-Data Structures & Algorithms
 Clean Code & Design Patterns
 
 ---
