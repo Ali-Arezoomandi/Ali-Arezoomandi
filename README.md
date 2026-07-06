@@ -58,11 +58,20 @@ Currently focusing on:
 ## 📊 GitHub Stats
 
 
-<p align="center">
-  <a href="https://github.com/ali-arezoomandi"><img src="https://github-readme-stats-xi-seven-23.vercel.app/api?username=ali-arezoomandi&count_private=true&show_icons=true&theme=dracula&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" width="49%" /></a>
-  <a href="https://github.com/ali-arezoomandi"><img src="https://github-readme-streak-stats-mu-flame.vercel.app/?user=ali-arezoomandi&theme=dracula" alt="Streak Stats" width="49%" /></a>
-</p>
-
+<table align="center">
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/ali-arezoomandi">
+        <img src="https://github-readme-stats-xi-seven-23.vercel.app/api?username=ali-arezoomandi&count_private=true&show_icons=true&theme=dracula&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" width="100%" />
+      </a>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/ali-arezoomandi">
+        <img src="https://github-readme-streak-stats-mu-flame.vercel.app/?user=ali-arezoomandi&theme=dracula" alt="Streak Stats" width="100%" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
