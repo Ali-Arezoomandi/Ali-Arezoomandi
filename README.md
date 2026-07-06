@@ -58,11 +58,8 @@ Currently focusing on:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ali-Arezoomandi&show_icons=true&theme=dark&hide=issues,prs,contribs" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Ali-Arezoomandi&theme=dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TheAliBigdeli&show_icons=true&theme=dark&count_private=true&include_all_commits=true" width="49%" />
+  <img src="https://streak-stats.demolab.com/?user=TheAliBigdeli&theme=dark" width="49%" />
 </p>
 
 ---
