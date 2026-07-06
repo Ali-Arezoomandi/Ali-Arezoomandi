@@ -59,10 +59,10 @@ Currently focusing on:
 
 
 <p align="center">
-  <a width="50%" href="https://github.com/ali-arezoomandi">
+  <a width="48%" href="https://github.com/ali-arezoomandi">
     <img align="center" src="https://github-readme-stats-xi-seven-23.vercel.app/api?username=ali-arezoomandi&count_private=true&show_icons=true&theme=dracula&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
   </a>
-  <a width="50%" href="https://github.com/ali-arezoomandi">
+  <a width="48%" href="https://github.com/ali-arezoomandi">
     <img align="center" src="https://github-readme-streak-stats-mu-flame.vercel.app/?user=ali-arezoomandi&theme=dracula" alt="Streak Stats" />
   </a>
 </p>
