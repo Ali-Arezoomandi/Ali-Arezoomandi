@@ -57,9 +57,26 @@ Currently focusing on:
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TheAliBigdeli&theme=dark" width="49%" />
-</p>
+<table width="100%">
+  <tr>
+    <td width="50%">
+      <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
+      <p align="center">
+        <a href="https://github.com/ali-arezoomandi">
+          <img align="center" src="https://github-readme-stats-xi-seven-23.vercel.app/api?username=ali-arezoomandi&count_private=true&show_icons=true&theme=dracula&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
+      <p align="center">
+        <a href="https://github.com/ali-arezoomandi">
+          <img align="center" src="https://github-readme-streak-stats-mu-flame.vercel.app/?user=ali-arezoomandi&theme=dracula" alt="Streak Stats" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
