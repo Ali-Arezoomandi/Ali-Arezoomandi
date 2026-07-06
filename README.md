@@ -60,7 +60,6 @@ Currently focusing on:
 <table width="100%">
   <tr>
     <td width="50%">
-      <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
       <p align="center">
         <a href="https://github.com/ali-arezoomandi">
           <img align="center" src="https://github-readme-stats-xi-seven-23.vercel.app/api?username=ali-arezoomandi&count_private=true&show_icons=true&theme=dracula&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
@@ -68,7 +67,6 @@ Currently focusing on:
       </p>
     </td>
     <td width="50%">
-      <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
       <p align="center">
         <a href="https://github.com/ali-arezoomandi">
           <img align="center" src="https://github-readme-streak-stats-mu-flame.vercel.app/?user=ali-arezoomandi&theme=dracula" alt="Streak Stats" />
