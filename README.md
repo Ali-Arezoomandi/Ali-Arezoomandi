@@ -58,15 +58,19 @@ Currently focusing on:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ali-Arezoomandi&show_icons=true&theme=github_dark&hide_border=true" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Ali-Arezoomandi&show_icons=true&theme=github_dark&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-Arezoomandi&layout=compact&theme=github_dark&hide_border=true" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Ali-Arezoomandi&layout=compact&theme=github_dark&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Ali-Arezoomandi&theme=github-dark-blue&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Ali-Arezoomandi&theme=github-dark-blue&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ali-Arezoomandi&theme=react-dark&bg_color=0d1117&hide_border=true" />
 </p>
 
 ---
