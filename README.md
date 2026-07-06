@@ -58,18 +58,17 @@ Currently focusing on:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/Ali-Arezoomandi?label=Followers&style=for-the-badge&color=0d1117&logo=github" />
-  <img src="https://img.shields.io/github/stars/Ali-Arezoomandi?label=Stars&style=for-the-badge&color=0d1117&logo=github" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ali-Arezoomandi&show_icons=true&theme=github_dark&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/languages/top/Ali-Arezoomandi?style=for-the-badge&color=0d1117" />
-  <img src="https://img.shields.io/github/languages/count/Ali-Arezoomandi?style=for-the-badge&color=0d1117" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-Arezoomandi&layout=compact&theme=github_dark&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/dynamic/json?color=0d1117&logo=github&style=for-the-badge&label=Total%20Commits&query=total&url=https://api.github.com/search/commits?q=author:Ali-Arezoomandi" />
+  <img src="https://streak-stats.demolab.com?user=Ali-Arezoomandi&theme=github-dark-blue&hide_border=true" />
 </p>
+
 ---
 
 ## 📫 Contact Me
