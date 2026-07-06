@@ -57,7 +57,10 @@ Currently focusing on:
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TheAliBigdeli&show_icons=true&theme=dark&count_private=true&include_all_commits=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TheAliBigdeli&show_icons=true&theme=dark&count_private=true&include_all_commits=true" width="49%" />
+  <img src="https://streak-stats.demolab.com/?user=TheAliBigdeli&theme=dark" width="49%" />
+</p>
 
 ---
 
