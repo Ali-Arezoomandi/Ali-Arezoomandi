@@ -10,7 +10,7 @@ Currently focusing on:
 * Django & Django REST Framework
 * SQL & Database Design
 * Git & GitHub
-* * React
+* React
 
 ---
 
