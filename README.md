@@ -60,22 +60,17 @@ Currently focusing on:
 
 ## 📊 GitHub Stats
 
-
-<table width="100%">
+<table>
   <tr>
-    <td width="50%">
-      <p align="center">
-        <a href="https://github.com/ali-arezoomandi">
-          <img align="center" src="https://github-readme-stats-xi-seven-23.vercel.app/api?username=ali-arezoomandi&count_private=true&show_icons=true&theme=dracula&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
-        </a>
-      </p>
+    <td>
+      <a href="https://github.com/Ali-Arezoomandi">
+        <img src="https://github-stats-extended.vercel.app/api?username=ali-arezoomandi&show_icons=true&theme=tokyonight&hide=stars,issues&show=prs_merged,prs_merged_percentage&count_private=true&hide_border=true&rank_icon=github" alt="GitHub Stats" height="195" />
+      </a>
     </td>
-    <td width="50%">
-      <p align="center">
-        <a href="https://github.com/ali-arezoomandi">
-          <img align="center" src="https://github-readme-streak-stats-mu-flame.vercel.app/?user=ali-arezoomandi&theme=dracula" alt="Streak Stats" />
-        </a>
-      </p>
+    <td>
+      <a href="https://github.com/Ali-Arezoomandi">
+        <img src="https://streak-stats.demolab.com/?user=ali-arezoomandi&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="195" />
+      </a>
     </td>
   </tr>
 </table>
